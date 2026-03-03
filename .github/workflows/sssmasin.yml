@@ -9,12 +9,18 @@ jobs:
     timeout-minutes: 800
 
     env:
-      # --- وقت الإغلاق الخاص بك (بالدقائق) ---
+      # mail email: ketrine.knudsen@mail.com  pass: CvvDDD222@1
+
+      # nst mail   email: ops.backyard@execs.com   pass: Zxxz@@@@1111
+
+      # desktop  email: info.alexxshaww@gardener.com  pass: ZZZxxxaaa@111
+
+      # appsf  email: in.elizabethpenny@lovecat.com  pass: FFFdddaaa@@11
       TIME_JOB: "340" 
       # --------------------------------------
       aa2: "XCDOOD"
       aa3: "Zxxz4444"
-      LINKS_LIST_URL: "https://tinyurl.com/liksmedhat14"
+      LINKS_LIST_URL: "https://tinyurl.com/ddaS441581"
       KEY_CHOICE: "1"
       PYTHONIOENCODING: "utf-8"
 
