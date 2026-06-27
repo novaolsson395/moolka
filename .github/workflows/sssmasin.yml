@@ -1,4 +1,4 @@
-name: A_Test_Win 11
+name: AA_Test_Win 11
 on:
   workflow_dispatch:
 
